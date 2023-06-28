@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_flow_template_mapping">
+    <sys_app_flow_template_mapping action="INSERT_OR_UPDATE">
+        <flow display_value="Social Media Response Approval Template">fd2db3c097f7211095b0bdc0f053af9c</flow>
+        <sys_class_name>sys_app_flow_template_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 16:26:58</sys_created_on>
+        <sys_id>d72d37c013f72110a3210bd7834ef0f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_app_flow_template_mapping_d72d37c013f72110a3210bd7834ef0f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 16:26:58</sys_updated_on>
+        <template display_value="Social Media Response Approval Template">2a2df3c025f7211074e29f30ed0dec98</template>
+    </sys_app_flow_template_mapping>
+</record_update>
