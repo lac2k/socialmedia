@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template">
+    <sys_app_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <create_app>false</create_app>
+        <flow display_value="Object Template - Social Media Response Approval Template - 2023-06-28 16:26:55">222df3c097f7211095b0bdc0f053afb0</flow>
+        <name>Social Media Response Approval Template</name>
+        <referenced_table/>
+        <snapshot>false</snapshot>
+        <source_id/>
+        <sys_class_name>sys_app_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 16:26:55</sys_created_on>
+        <sys_id>2a2df3c025f7211074e29f30ed0dec98</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Social Media Response Approval Template</sys_name>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_app_template_2a2df3c025f7211074e29f30ed0dec98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 16:30:34</sys_updated_on>
+        <type display_value="Flow">b8c9bf330f3030108c9c5019c4767eb6</type>
+        <ux_framework_component display_value="sn-generic-flow-wizard">8533b5da78d4a07fcd0b37ef7e1f97c4</ux_framework_component>
+    </sys_app_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a2df3c025f7211074e29f30ed0dec98"/>
+</record_update>
